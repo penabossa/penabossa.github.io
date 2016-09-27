@@ -1,0 +1,55 @@
+			body {
+				background-color:#eeb7d2;
+				font-family:Verdana, "arial";
+
+			}
+			
+			#logo {
+				width:100%;
+			
+			}
+			
+			#body {
+				width: 96%;
+				margin:0 auto;
+				color:#cc4b87;
+				background-image: url(imagens/fundo.png);
+				background-repeat: no-repeat;
+				background-position: top center;
+				background-attachment: scroll;
+			}
+			
+			#cabecalhoe {
+				width:100%;
+				
+			}
+			
+			#centralizar {
+				height:50px;
+				width:100%;
+			}
+			
+			#cabecalhod {
+				width:100%;
+				text-align:center;
+				padding-bottom:50px;
+			}
+			
+			#corpoe {
+				width:100%;
+			}
+			
+			#soundcloud{
+				width:100%;
+			}
+			
+			#corpod {
+				width:100%;
+				text-align:justify;
+				font-size:small;
+				padding-left:0px;
+				padding-top:15px;
+				padding-bottom:20px;
+				
+			}
+			

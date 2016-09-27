@@ -1,0 +1,66 @@
+		
+			body {
+				background-color:#eeb7d2;
+				background-image: url(imagens/fundo.png);
+				background-repeat: no-repeat;
+				background-position: top center;
+				background-attachment: scroll;
+				font-family:Verdana, "arial";
+			}
+			
+
+			
+			#logo {
+				height:150px;
+			}
+			
+			#body {
+				width:1024px;
+				margin:0 auto;
+				color:#cc4b87;
+			}
+			
+			#cabecalhoe {
+				width:512px;
+				height:150px;
+				float:left;
+				text-align:center;
+				color:#cc4b87;
+			}
+			
+			#centralizar {
+				text-align:right;
+				width:512px;
+				height:70px;
+				float:left;
+			}
+			
+			#cabecalhod {
+				text-align:center;
+				width:512px;
+				height:100px;
+				float:left;
+			}
+			
+			#corpoe {
+				width:512px;
+				float:left;
+			}
+			
+			#soundcloud{
+				width:497px;
+				height:490px;
+			}
+			
+			#corpod {
+				width:497px;
+				float:left;
+				padding-left:15px;
+				text-align:justify;
+				font-size:small;
+				line-height:16px;
+				
+			}
+			
+
+			
